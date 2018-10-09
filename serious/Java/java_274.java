@@ -1,4 +1,4 @@
-public class java_302 {
+public class java_274 {
 
 	public static void main(String[] args) {
 		StringBuilder builder = new StringBuilder();
